@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name"><font size='24'>Welcome to the Customer and Inventory System</font></string>
+    <string name="intro_text"><font size='18'>Make your selection:</font></string>
+    <string name="customer_mgmt">Customer Management</string>
+    <string name="add_inventory">Inventory Management</string>
+    <string name="display_invoice">Display Customer Invoices</string>
+    <string name="send_invoice">Send Customer Invoice</string>
+
+    <string name="customer_instructions"><font size="24">Enter the customer details below:</font></string>
+    <string name="first_name_hint"><font size="12">First Name</font></string>
+    <string name="last_name_hint"><font size="12">Last Name</font></string>
+    <string name="email_hint"><font size="12">Email Address</font></string>
+    <string name="id_hint"><font size="12">Customer ID</font></string>
+    <string name="add_customer"><font size="14">Add Customer</font></string>
+    <string name="get_customer"><font size="14">Get Customer</font></string>
+    <string name="update_customer"><font size="14">Update Customer</font></string>
+    <string name="delete_customer"><font size="14">Delete Customer</font></string>
+
+    <string name="inventory_instructions"><font size="24">Enter the inventory details below:</font></string>
+    <string name="inv_name_hint"><font size="12">Item Name</font></string>
+    <string name="inv_desc_hint"><font size="12">Short Description</font></string>
+    <string name="inv_price_hint"><font size="12">Sales Price</font></string>
+    <string name="inv_id_hint"><font size="12">Item ID</font></string>
+    <string name="add_inventory_item"><font size="14">Add Item</font></string>
+    <string name="get_inventory"><font size="14">Get Item</font></string>
+    <string name="update_inventory"><font size="14">Update Item</font></string>
+    <string name="delete_inventory"><font size="14">Delete Item</font></string>
+</resources>
